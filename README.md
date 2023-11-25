@@ -8,4 +8,4 @@ git clone https://github.com/WildInsect/Termux-Api-Script
 chmod +x Api_Script.sh
 ./Api_Script.sh
 ```
-![screenshot](screenshot.jpg {width=40px height=400px})
+<img src="https://raw.githubusercontent.com/WildInsect/Termux-Api-Script/main/screenshot.jpg" width="200" height="400" />
