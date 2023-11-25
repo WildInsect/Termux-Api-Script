@@ -2,7 +2,7 @@
 #### You can use many of the `Termux Api` commands using this script.
 ------
 ## Installetion
-**Donload Termux Api app from here https://f-droid.org/en/packages/com.termux.api/ and install after installation run the following comments**
+**Donload `Termux Api App` from here https://f-droid.org/en/packages/com.termux.api/ and install after installation run the following comments**
 ```
 git clone
 chmod +x Api_Script.sh
