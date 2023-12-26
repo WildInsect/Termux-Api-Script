@@ -2,7 +2,7 @@
 #### You can use many of the `Termux Api` commands using this script in Termux.
 ------
 ## Installetion
-**First Donload `Termux Api App` from here https://f-droid.org/en/packages/com.termux.api/ and install it, after installation run the following commands.**
+**First Donload `Termux Api App` from here https://f-droid.org/en/packages/com.termux.api/ and install it, after installation run the following commands one by one.**
 ```
 git clone https://github.com/WildInsect/Termux-Api-Script
 cd Termux-Api-Script/
